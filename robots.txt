@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Jo-li-eF-ior-ent-ino-51-00.github.io/content-lib/sitemap.xml
